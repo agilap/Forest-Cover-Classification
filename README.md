@@ -6,28 +6,7 @@
 > This repository is intended to be re-uploaded and maintained under my new GitHub account.
 >
 > **New canonical repo :**
-> https://github.com/<agilap>/Forest-Cover-Classification
-
-## Re-upload to a New GitHub Account
-
-1. Create a new empty GitHub repository in your new account (same name recommended).
-2. In this folder, point `origin` to the new repo URL:
-
-  ```bash
-  git remote set-url origin https://github.com/agilap/Forest-Cover-Classification.git
-  ```
-
-3. Push:
-
-  ```bash
-  git push -u origin main
-  ```
-
-Notes:
-
-* This repo includes `cover_data.csv` (~75MB). GitHub allows files up to 100MB, but if you ever hit size limits, consider Git LFS.
-
----
+> https://github.com/agilap/Forest-Cover-Classification
 
 # Dataset Overview and Processing Pipeline
 
