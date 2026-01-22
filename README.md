@@ -5,8 +5,8 @@
 > I got locked out of the original GitHub account that hosted this project.
 > This repository is intended to be re-uploaded and maintained under my new GitHub account.
 >
-> **New canonical repo (replace with your URL):**
-> https://github.com/<YOUR_NEW_GITHUB_USERNAME>/Forest-Cover-Classification
+> **New canonical repo :**
+> https://github.com/<agilap>/Forest-Cover-Classification
 
 ## Re-upload to a New GitHub Account
 
