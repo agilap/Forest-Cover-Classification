@@ -14,7 +14,7 @@
 2. In this folder, point `origin` to the new repo URL:
 
   ```bash
-  git remote set-url origin https://github.com/<YOUR_NEW_GITHUB_USERNAME>/Forest-Cover-Classification.git
+  git remote set-url origin https://github.com/agilap/Forest-Cover-Classification.git
   ```
 
 3. Push:
